@@ -1,1 +1,0 @@
-Hocam skyline problemini c++ üzerinden çözdüm. Derlerken c++ üzerinden değerlendirebilirseniz sevinirim.
